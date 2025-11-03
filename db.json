@@ -1,0 +1,56 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Bananu Uyu (Leite de Banana)",
+      "marca": "Binggrae",
+      "preco": 1.50,
+      "foto": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Bananamilk.jpg",
+      "dataCadastro": "2024-05-01",
+      "descricao": "O icônico leite coreano sabor banana, suave e cremoso. Perfeito para um lanche rápido.",
+      "comentarios": [
+        {
+          "id": 101,
+          "usuario": "Samuel",
+          "texto": "Muito bom, sabor de infância. Nota 5!",
+          "nota": 5,
+          "data": "2024-09-10"
+        },
+        {
+          "id": 102,
+          "usuario": "Victor",
+          "texto": "Um pouco doce demais, mas refrescante.",
+          "nota": 4,
+          "data": "2024-09-15"
+        }
+      ],
+      "estrelas": 4.5
+    },
+    {
+      "id": 2,
+      "nome": "Shin Ramyun (Sabor Picante)",
+      "marca": "Nongshim",
+      "preco": 2.20,
+      "foto": "https://m.media-amazon.com/images/I/71uk1Io0MlL._AC_UF894,1000_QL80_.jpg",
+      "dataCadastro": "2024-05-15",
+      "descricao": "O ramen mais popular da Coreia, com um caldo picante e saboroso.",
+      "comentarios": [
+        {
+          "id": 201,
+          "usuario": "Giuli",
+          "texto": "Perfeito para o frio! Nota 5.",
+          "nota": 5,
+          "data": "2024-09-20"
+        },
+        {
+          "id": 202,
+          "usuario": "Miguel",
+          "texto": "Realmente picante, adorei a textura do macarrão.",
+          "nota": 5,
+          "data": "2024-09-22"
+        }
+      ],
+      "estrelas": 5.0
+    }
+  ]
+}
